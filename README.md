@@ -5,7 +5,6 @@ The findings of the data scraping are placed on a map, and a tracking line is en
 
 This is an exciting project that helps compare ships mentioned in fables with actual evidence. 
 
-Estimated completion of project remains:- 5 MONTHS TST 
 
 
 
